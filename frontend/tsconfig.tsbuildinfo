@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/csv.test.ts","./src/csv.ts","./src/freshness.test.ts","./src/freshness.ts","./src/main.tsx","./src/parse.test.ts","./src/parse.ts","./src/sampleData.ts","./src/types.ts","./src/components/SpectrumChart.tsx"],"version":"5.9.3"}
